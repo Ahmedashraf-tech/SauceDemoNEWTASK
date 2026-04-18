@@ -19,48 +19,58 @@ public class P02_ProductsPage extends PageBase {
     private final By cartButton       = By.id("shopping_cart_container");
     private final By cartBadge        = By.cssSelector("[data-test='shopping-cart-badge']");
     private final By checkoutButton   = By.id("checkout");
-    private final By itemPrices       = By.className("inventory_item_price");
 
-    // ─── Add random products & return COUNT (not price) ───────────────────────
+    // ─── Each product item container ──────────────────────────────────────────
+    // بنجيب كل inventory item كـ container واحد عشان السعر والـ button يكونوا من نفس المنتج
+    private final By inventoryItems   = By.className("inventory_item");
+
+    // ─── Add random products & return COUNT ───────────────────────────────────
     public int addRandomProductsToCart() {
         shortWait(driver).until(
                 ExpectedConditions.visibilityOfAllElementsLocatedBy(addToCartButtons));
 
         List<WebElement> buttons = driver.findElements(addToCartButtons);
-        int maxProducts      = Math.min(buttons.size(), 6);
-        int productsToAdd    = new Random().nextInt(maxProducts) + 1; // at least 1
+        int productsToAdd = new Random().nextInt(Math.min(buttons.size(), 6)) + 1;
 
         for (int i = 0; i < productsToAdd; i++) {
-            // Re-fetch every iteration to avoid StaleElementReferenceException
             buttons = driver.findElements(addToCartButtons);
-            int randomIndex = new Random().nextInt(buttons.size());
-            buttons.get(randomIndex).click();
+            buttons.get(new Random().nextInt(buttons.size())).click();
         }
 
-        return productsToAdd; // ← returns COUNT, not price
+        return productsToAdd;
     }
 
-    // ─── Add random products & return accumulated PRICE ───────────────────────
+    // ─── Add random products & return accumulated PRICE (fixed) ───────────────
     public double addRandomProductsToCartAndGetPrice() {
         shortWait(driver).until(
-                ExpectedConditions.visibilityOfAllElementsLocatedBy(addToCartButtons));
+                ExpectedConditions.visibilityOfAllElementsLocatedBy(inventoryItems));
 
-        List<WebElement> buttons = driver.findElements(addToCartButtons);
-        List<WebElement> prices  = driver.findElements(itemPrices);
-
-        int maxProducts   = Math.min(buttons.size(), 6);
-        int productsToAdd = new Random().nextInt(maxProducts) + 1;
-        double total      = 0.0;
+        List<WebElement> items = driver.findElements(inventoryItems);
+        int productsToAdd = new Random().nextInt(Math.min(items.size(), 6)) + 1;
+        double total = 0.0;
 
         for (int i = 0; i < productsToAdd; i++) {
-            buttons = driver.findElements(addToCartButtons);
-            prices  = driver.findElements(itemPrices);
+            // ── Re-fetch items every iteration ────────────────────────────────
+            items = driver.findElements(inventoryItems);
 
-            int randomIndex = new Random().nextInt(buttons.size());
-            String priceText = prices.get(randomIndex).getText().replaceAll("[^\\d.]", "");
+            // ── Pick a random item that hasn't been added yet ─────────────────
+            List<WebElement> availableItems = items.stream()
+                    .filter(item -> !item.findElements(By.xpath(".//button[text()='Add to cart']")).isEmpty())
+                    .toList();
+
+            if (availableItems.isEmpty()) break;
+
+            WebElement selectedItem = availableItems.get(new Random().nextInt(availableItems.size()));
+
+            // ── Get price FROM THE SAME item container ─────────────────────────
+            String priceText = selectedItem
+                    .findElement(By.className("inventory_item_price"))
+                    .getText()
+                    .replaceAll("[^\\d.]", "");
             total += Double.parseDouble(priceText);
 
-            buttons.get(randomIndex).click();
+            // ── Click "Add to cart" inside the same container ──────────────────
+            selectedItem.findElement(By.xpath(".//button[text()='Add to cart']")).click();
         }
 
         return total;
