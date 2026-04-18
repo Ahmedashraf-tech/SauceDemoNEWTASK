@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TestSuite">
+
+    <listeners>
+        <listener class-name="listeners.CustomListener"></listener>
+    </listeners>
+
+<parameter name="browsername" value=""/>
+
+    <test name="Compare between total price  ">
+        <classes>
+            <class name="Testcases.TC01_LoginPage"> </class>
+            <class name ='Testcases.TC02_Products'></class>
+            <class name="Testcases.TC03_CheckOut_Fill_Information"></class>
+            <class name ="Testcases.TC04_CheckOut_Overview"></class>
+        </classes>
+    </test>
+
+</suite>
+
+
+

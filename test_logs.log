@@ -1,0 +1,551 @@
+2026-04-17 15:44:23  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-17 15:44:24  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-17 15:44:40  [Testcases.TestBase] (main:) Login Successfully
+2026-04-17 15:44:41  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\testng.xml
+
+2026-04-17 15:45:19  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-17 15:45:19  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-17 15:45:27  [Testcases.TestBase] (main:) Login Successfully
+2026-04-17 15:46:29  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\testng.xml
+
+2026-04-17 15:50:01  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-17 15:50:02  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-17 15:50:09  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\testng.xml
+
+2026-04-17 15:56:06  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-17 15:57:26  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-17 16:01:34  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-17 16:01:34  [Testcases.TestBase] (main:) Starting Test on Browser: chrome
+2026-04-17 16:02:36  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-17 16:02:37  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-17 16:02:37  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 07:50:05  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 07:50:05  [Testcases.TestBase] (main:) Starting Test on Browser: chrome
+2026-04-18 07:53:47  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 07:53:47  [Testcases.TestBase] (main:) Starting Test on Browser: chrome
+2026-04-18 08:00:58  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 08:00:58  [Testcases.TestBase] (main:) Starting Test on Browser: chrome
+2026-04-18 08:05:27  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 08:05:28  [Testcases.TestBase] (main:) Starting Test on Browser: chrome
+2026-04-18 08:05:32  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 08:05:40  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 08:05:41  [Testcases.TestBase] (main:) Starting Test on Browser: chrome
+2026-04-18 08:05:44  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 13:25:41  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 13:25:41  [Testcases.TestBase] (main:) Starting Test on Browser: chrome
+2026-04-18 13:25:47  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 13:26:04  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 13:26:04  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 13:26:05  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 13:26:08  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 13:26:08  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 13:26:08  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 13:26:09  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 13:26:09  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 13:28:30  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 13:28:31  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 13:28:31  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 13:28:34  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 13:28:34  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 13:28:37  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 13:31:04  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 13:31:05  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 13:31:05  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 13:31:09  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 13:31:09  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 13:31:11  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 13:31:12  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 13:40:56  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 13:40:57  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 13:40:57  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 13:41:02  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 13:41:02  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 13:41:05  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 13:41:05  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:00:26  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:00:26  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:00:27  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:00:28  [io.qameta.allure.AllureLifecycle] (main:) Could not update test container: container with uuid f79b823d-9145-46fa-a58b-366451ab6eee not found
+2026-04-18 14:04:19  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:04:19  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:04:20  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:04:23  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:04:24  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:12:52  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:12:53  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:12:53  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:12:56  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 14:12:57  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:12:59  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:13:00  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:13:44  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:13:45  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:13:45  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:13:48  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 14:13:49  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:13:49  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:13:49  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:13:49  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:14:00  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:14:01  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:14:01  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:14:04  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 14:14:05  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:14:05  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:14:05  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:14:06  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:14:51  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:14:52  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:14:52  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:14:55  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 14:14:56  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:14:58  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:14:59  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:30:42  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:30:42  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:30:43  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:30:47  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 14:30:48  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:30:50  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:30:51  [Testcases.TestBase] (main:) Starting Test on Browser: 
+2026-04-18 14:34:52  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:34:53  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:34:56  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 14:34:57  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 14:34:59  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 14:35:00  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:53:45  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:53:46  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:53:49  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 14:53:50  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 14:53:52  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 14:53:53  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:55:21  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 14:55:22  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 14:55:25  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 14:55:26  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 14:55:28  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 14:55:28  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 14:59:32  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 14:59:36  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 14:59:54  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 14:59:58  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 15:00:02  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 15:00:56  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 15:01:00  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 15:01:16  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 15:01:24  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 15:01:41  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 15:37:00  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 15:37:01  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 15:37:06  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 15:37:07  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 15:37:09  [Testcases.TestBase] (main:) Navigated to: https://www.saucedemo.com/
+2026-04-18 15:37:10  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 15:56:38  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 15:56:39  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 15:56:39  [Testcases.TestBase] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 15:56:43  [Testcases.TestBase] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 15:56:43  [Testcases.TestBase] (main:) Login Failed
+2026-04-18 15:56:43  [Testcases.TestBase] (main:) Browser closed.
+2026-04-18 15:56:45  [Testcases.TestBase] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 15:56:46  [Testcases.TestBase] (main:) Login Successfully
+2026-04-18 15:56:46  [Testcases.TestBase] (main:) Browser closed.
+2026-04-18 15:59:15  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 15:59:16  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 15:59:16  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 15:59:19  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 15:59:19  [Testcases.TC01_LoginPage] (main:) Login Failed
+2026-04-18 15:59:19  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 15:59:21  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 15:59:22  [Testcases.TC01_LoginPage] (main:) Login Successfully
+2026-04-18 15:59:22  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 15:59:24  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 15:59:25  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 15:59:25  [Testcases.TC02_Products] (main:) Products added to cart: 6
+2026-04-18 15:59:25  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 6
+2026-04-18 15:59:26  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:01:25  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:01:26  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:01:26  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:01:30  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:01:30  [Testcases.TC01_LoginPage] (main:) Login Failed
+2026-04-18 16:01:31  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:01:32  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:01:33  [Testcases.TC01_LoginPage] (main:) Login Successfully
+2026-04-18 16:01:33  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:01:35  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:01:36  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 16:01:36  [Testcases.TC02_Products] (main:) Products added to cart: 4
+2026-04-18 16:01:36  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 4
+2026-04-18 16:01:36  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:01:38  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:01:39  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:04:17  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:04:17  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:04:18  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:04:21  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:04:21  [Testcases.TC01_LoginPage] (main:) Login Failed
+2026-04-18 16:04:22  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:04:25  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:04:25  [Testcases.TC01_LoginPage] (main:) Login Successfully
+2026-04-18 16:04:26  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:04:28  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:04:28  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 16:04:28  [Testcases.TC02_Products] (main:) Products added to cart: 1
+2026-04-18 16:04:28  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 1
+2026-04-18 16:04:29  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:04:31  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:04:31  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 16:04:33  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 16:04:33  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:05:02  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:05:03  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:05:03  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:05:06  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:05:06  [Testcases.TC01_LoginPage] (main:) Login Failed
+2026-04-18 16:05:07  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:05:09  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:05:09  [Testcases.TC01_LoginPage] (main:) Login Successfully
+2026-04-18 16:05:10  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:05:12  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:05:12  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 16:05:13  [Testcases.TC02_Products] (main:) Products added to cart: 6
+2026-04-18 16:05:13  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 6
+2026-04-18 16:05:13  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:05:15  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:05:16  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 16:05:17  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 16:05:17  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:05:19  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:05:34  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 16:08:21  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:08:22  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:08:22  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:08:25  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:08:25  [Testcases.TC01_LoginPage] (main:) Login Failed
+2026-04-18 16:08:26  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:08:28  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:08:28  [Testcases.TC01_LoginPage] (main:) Login Successfully
+2026-04-18 16:08:29  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:08:31  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:08:31  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 16:08:31  [Testcases.TC02_Products] (main:) Products added to cart: 2
+2026-04-18 16:08:31  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 2
+2026-04-18 16:08:32  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:08:34  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:08:34  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 16:08:35  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 16:08:36  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:08:38  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:08:38  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-18 16:08:39  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-18 16:08:39  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 16:16:12  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:16:12  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:16:12  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:16:16  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:16  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:16:18  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:18  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:16:20  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:20  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:16:22  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:23  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:16:25  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:25  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:16:27  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:27  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:16:29  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:29  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:16:31  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:32  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:16:34  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:34  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:16:36  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:36  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:16:38  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:38  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:16:40  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:41  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:16:43  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:43  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:16:45  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:45  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:16:47  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:47  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:16:49  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:50  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:16:52  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:16:52  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 16:18:21  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:18:22  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:18:22  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:18:26  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:18:26  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:18:28  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:18:28  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:18:30  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:18:31  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:18:33  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:18:33  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:18:35  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:18:35  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:18:37  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:18:37  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:18:39  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:18:40  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:20:29  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:20:30  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:20:30  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:20:33  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:20:34  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:20:36  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:20:36  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:21:13  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 16:21:13  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:21:17  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser: chrome | URL: https://www.saucedemo.com/
+2026-04-18 16:21:17  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:21:19  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser: chrome | URL: https://www.saucedemo.com/
+2026-04-18 16:21:20  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:21:22  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser: chrome | URL: https://www.saucedemo.com/
+2026-04-18 16:21:22  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:21:24  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser: chrome | URL: https://www.saucedemo.com/
+2026-04-18 16:21:24  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:22:14  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+2026-04-18 16:22:14  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:22:15  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:22:21  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:22:22  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:22:22  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:22:25  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:22:26  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:22:28  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:22:28  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:22:30  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:22:30  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:22:32  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:22:33  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:24:02  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 16:24:03  [org.testng.internal.Utils] (main:) [TestNG] Running:
+  C:\Users\Ahmed\IdeaProjects\Task\Demo.xml
+
+2026-04-18 16:24:03  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 16:24:06  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:24:07  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-18 16:24:07  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:24:09  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:24:10  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-18 16:24:10  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 16:24:12  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:24:13  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 16:24:13  [Testcases.TC02_Products] (main:) Products added to cart: 4
+2026-04-18 16:24:13  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 4
+2026-04-18 16:24:13  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 16:24:15  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:24:16  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 16:24:17  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 16:24:17  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 16:24:19  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 16:24:20  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-18 16:24:21  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-18 16:24:21  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 18:15:26  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 18:15:27  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 18:15:31  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:15:32  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-18 18:15:32  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:15:35  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:15:35  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-18 18:15:36  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:15:38  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:15:38  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 18:15:38  [Testcases.TC02_Products] (main:) Products added to cart: 1
+2026-04-18 18:15:38  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 1
+2026-04-18 18:15:39  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 18:15:41  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:15:41  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 18:15:42  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 18:15:43  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 18:15:48  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:15:49  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-18 18:15:50  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-18 18:15:50  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 18:19:33  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 18:19:34  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 18:19:36  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:19:37  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-18 18:19:37  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:19:39  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:19:40  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-18 18:19:40  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:19:42  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:19:43  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 18:19:43  [Testcases.TC02_Products] (main:) Products added to cart: 2
+2026-04-18 18:19:43  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 2
+2026-04-18 18:19:43  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 18:19:45  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:19:46  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 18:19:47  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 18:19:47  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 18:19:49  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:19:49  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-18 18:19:50  [Testcases.TC04_CheckOut_Overview] (main:) Accumulated price from products page: $91.96
+2026-04-18 18:19:51  [Testcases.TC04_CheckOut_Overview] (main:) Displayed subtotal on overview page: $91.96
+2026-04-18 18:19:51  [Testcases.TC04_CheckOut_Overview] (main:) Price comparison passed ✔ — $91.96 == $91.96
+2026-04-18 18:19:51  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-18 18:19:51  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 18:21:13  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 18:21:13  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 18:21:16  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:21:16  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-18 18:21:17  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:21:19  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:21:19  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-18 18:21:20  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:21:22  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:21:22  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 18:21:23  [Testcases.TC02_Products] (main:) Products added to cart: 5
+2026-04-18 18:21:23  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 5
+2026-04-18 18:21:23  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 18:21:25  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:21:26  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 18:21:27  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 18:21:27  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 18:21:29  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:21:30  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-18 18:21:31  [Testcases.TC04_CheckOut_Overview] (main:) Price comparison passed — $49.96 == $49.96
+2026-04-18 18:21:31  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-18 18:21:31  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 18:23:20  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 18:23:21  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 18:23:23  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:23:24  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-18 18:23:24  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:23:26  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:23:27  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-18 18:23:27  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:23:30  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:23:30  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 18:23:30  [Testcases.TC02_Products] (main:) Products added to cart: 2
+2026-04-18 18:23:30  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 2
+2026-04-18 18:23:31  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 18:23:33  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:23:33  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 18:23:34  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 18:23:35  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 18:23:37  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:23:37  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-18 18:23:39  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 18:23:41  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:23:41  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-18 18:23:43  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-18 18:25:14  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\Task\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-18 18:25:15  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-18 18:25:17  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:25:18  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-18 18:25:18  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:25:20  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:25:21  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-18 18:25:21  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-18 18:25:23  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:25:24  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-18 18:25:24  [Testcases.TC02_Products] (main:) Products added to cart: 2
+2026-04-18 18:25:24  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 2
+2026-04-18 18:25:24  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-18 18:25:26  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:25:27  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-18 18:25:28  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-18 18:25:28  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-18 18:25:30  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-18 18:25:31  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-18 18:25:32  [Testcases.TC04_CheckOut_Overview] (main:) Price comparison passed — $25.98 == $25.98
+2026-04-18 18:25:32  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-18 18:25:32  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
