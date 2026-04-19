@@ -642,3 +642,69 @@
 2026-04-18 19:26:52  [Testcases.TC04_CheckOut_Overview] (main:) Price comparison passed — $79.98 == $79.98
 2026-04-18 19:26:52  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
 2026-04-18 19:26:53  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-19 17:23:35  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\SauceDemoNEWTASK\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-19 17:23:35  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-19 17:23:37  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:23:39  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-19 17:23:39  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-19 17:23:43  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:23:43  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-19 17:23:44  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-19 17:23:46  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:23:47  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-19 17:23:47  [Testcases.TC02_Products] (main:) Products added to cart: 4
+2026-04-19 17:23:47  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 4
+2026-04-19 17:23:48  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-19 17:23:50  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:23:50  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-19 17:23:51  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-19 17:23:52  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-19 17:23:54  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:23:54  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-19 17:23:55  [Testcases.TC04_CheckOut_Overview] (main:) Price comparison passed — $49.99 == $49.99
+2026-04-19 17:23:55  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-19 17:23:56  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-19 17:26:10  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\SauceDemoNEWTASK\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-19 17:26:10  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-19 17:26:13  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:26:14  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-19 17:26:14  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-19 17:26:17  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:26:17  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-19 17:26:18  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-19 17:26:20  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:26:20  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-19 17:26:20  [Testcases.TC02_Products] (main:) Products added to cart: 2
+2026-04-19 17:26:20  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 2
+2026-04-19 17:26:21  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-19 17:26:23  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:26:24  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-19 17:26:25  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-19 17:26:25  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-19 17:26:27  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:26:28  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-19 17:26:29  [Testcases.TC04_CheckOut_Overview] (main:) Price comparison passed — $129.94 == $129.94
+2026-04-19 17:26:29  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-19 17:26:30  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
+2026-04-19 17:27:37  [org.testng.xml.TestNGContentHandler] (main:) It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Ahmed\IdeaProjects\SauceDemoNEWTASK\Demo.xml] otherwise TestNG may fail or not work as expected.
+2026-04-19 17:27:37  [Testcases.TC01_LoginPage] (main:) === Suite started | Project: SauceDemo ===
+2026-04-19 17:27:40  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:27:40  [Testcases.TC01_LoginPage] (main:) Login Failed — user: invalid_user
+2026-04-19 17:27:41  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-19 17:27:43  [Testcases.TC01_LoginPage] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:27:43  [Testcases.TC01_LoginPage] (main:) Login Successfully — user: standard_user
+2026-04-19 17:27:44  [Testcases.TC01_LoginPage] (main:) Browser closed.
+2026-04-19 17:27:46  [Testcases.TC02_Products] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:27:46  [Testcases.TC02_Products] (main:) Logged in as: standard_user
+2026-04-19 17:27:46  [Testcases.TC02_Products] (main:) Products added to cart: 4
+2026-04-19 17:27:46  [Testcases.TC02_Products] (main:) TC02 passed — badge shows: 4
+2026-04-19 17:27:47  [Testcases.TC02_Products] (main:) Browser closed.
+2026-04-19 17:27:49  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:27:49  [Testcases.TC03_CheckOut_Fill_Information] (main:) Logged in as: standard_user
+2026-04-19 17:27:50  [Testcases.TC03_CheckOut_Fill_Information] (main:) TC03 passed — navigated to: https://www.saucedemo.com/checkout-step-two.html
+2026-04-19 17:27:51  [Testcases.TC03_CheckOut_Fill_Information] (main:) Browser closed.
+2026-04-19 17:27:53  [Testcases.TC04_CheckOut_Overview] (main:) Browser opened | Browser:  | URL: https://www.saucedemo.com/
+2026-04-19 17:27:53  [Testcases.TC04_CheckOut_Overview] (main:) Logged in as: standard_user
+2026-04-19 17:27:54  [Testcases.TC04_CheckOut_Overview] (main:) Price comparison passed — $49.96 == $49.96
+2026-04-19 17:27:54  [Testcases.TC04_CheckOut_Overview] (main:) TC04 passed — success message: Thank you for your order!
+2026-04-19 17:27:55  [Testcases.TC04_CheckOut_Overview] (main:) Browser closed.
